@@ -1,0 +1,71 @@
+header {
+    text-align: center; 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 200rem;
+    background-color:indianred; 
+    font-size: medium;
+    width:auto;
+    height: 100px;
+}
+body { background-image: url(https://static.vecteezy.com/system/resources/previews/004/988/566/original/seamless-watermelon-skin-pattern-background-green-repeat-pattern-background-for-print-summer-wallpaper-textile-vector.jpg);}
+.card-body{ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: lightgreen;
+
+}
+h1{ text-align: center;
+}
+.navbar { background-image: url(https://www.productopainino.cl/wp-content/uploads/2020/10/loog_largo.png);
+         height: 200px; background-position: center; 
+         justify-content: center;
+
+    background-repeat: no-repeat;
+    }
+    .carousel-item {margin-top: 20px;}
+    section {text-align:center; background-color:lightgreen ;
+            height: 200px;
+             width: 500px;
+             margin-top: 50px;
+             
+    }
+    iframe src{ background-position:center;}
+   
+.piedepag { text-align: center;
+          height: 3rem; width: auto;
+           background-color: black;
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           }
+
+.container { display: flex;
+             justify-content: center;
+             align-items: center;
+             text-align: center;
+           }
+
+.info { display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        background-color: rgb(140, 190, 140);
+        border-radius: 25px;
+        margin: 10px;
+            padding: 5px;}
+        
+
+.formulario {display: flex;
+             justify-content: center;
+             align-items: center;
+             text-align: center;
+             background-color: rgb(140, 190, 140);
+             border-radius: 25px;
+            margin: 10px;
+            padding: 5px;}
+
+textarea {width: 30rem;}
+
+.mapa {display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
